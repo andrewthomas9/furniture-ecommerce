@@ -1,16 +1,3 @@
-<p align="center">
-  <a href="https://hekto.miladsdgh.ir" rel="noopener">
- <img width=200px height=200px src="https://s2.uupload.ir/files/hekto_ndxi.png" alt="Bot logo"></a>
-</p>
-
-<div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-blue.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-[![Langugae](https://img.shields.io/github/languages/top/miladsadeghi/hekto)]()
-
-</div>
-
 ---
 
 <p align="center"> ECommerce application built with React, Redux, Typescript, Firebase and Tailwind.
